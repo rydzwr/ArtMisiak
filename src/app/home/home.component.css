@@ -1,0 +1,150 @@
+.header-content {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.header {
+  width: 40%;
+  height: 100%;
+}
+
+.line {
+  height: 1px;
+  background: black;
+}
+
+.navbar {
+  margin-top: 15px;
+  display: flex;
+  justify-content: space-around;
+}
+
+.nav-button {
+  background: none;
+  border: none;
+}
+
+.page-content {
+  margin-top: 50px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.block-01 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.main-photo {
+  height: 80%;
+  width: 40%;
+}
+
+.block-02 {
+  margin-top: 50px;
+  width: 750px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.text-background {
+  background-color: bisque;
+  height: 700px;
+  width: 300px;
+}
+
+.text {
+  font-size: 35px;
+}
+
+.block-02-photos {
+  display: flex;
+  flex-direction: column;
+}
+
+.example-photo {
+  height: 300px;
+  width: 450px;
+}
+
+.block-03 {
+  margin-top: 50px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.block-04 {
+  margin-top: 20px;
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.block-04-button {
+  background-color: bisque;
+  height: 100px;
+  width: 200px;
+  border: none;
+}
+
+.block-05 {
+  margin-top: 20px;
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.block-05-photo {
+  height: 250px;
+  width: 350px;
+}
+
+.block-06 {
+  margin-top: 20px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.block-06-photo {
+  height: 450px;
+  width: 650px;
+}
+
+.block-06-text-background {
+  height: 250px;
+  width: 350px;
+  background-color: bisque;
+  margin-left: -50px;
+}
+
+.block-07 {
+  margin-top: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+
