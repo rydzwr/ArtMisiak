@@ -1,32 +1,3 @@
-.header-content {
-  width: 100%;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  text-align: center;
-}
-
-.header {
-  width: 40%;
-  height: 100%;
-}
-
-.line {
-  height: 1px;
-  background: black;
-}
-
-.navbar {
-  margin-top: 15px;
-  display: flex;
-  justify-content: space-around;
-}
-
-.nav-button {
-  background: none;
-  border: none;
-}
-
 .page-content {
   margin-top: 50px;
   display: flex;
@@ -57,7 +28,7 @@
 }
 
 .text-background {
-  background-color: bisque;
+  background-color: #f2efe5;
   height: 700px;
   width: 300px;
 }
@@ -74,6 +45,7 @@
 .example-photo {
   height: 300px;
   width: 450px;
+  margin-top: 20px;
 }
 
 .block-03 {
@@ -96,7 +68,7 @@
 }
 
 .block-04-button {
-  background-color: bisque;
+  background-color: #f2efe5;
   height: 100px;
   width: 200px;
   border: none;
@@ -134,7 +106,7 @@
 .block-06-text-background {
   height: 250px;
   width: 350px;
-  background-color: bisque;
+  background-color: #f2efe5;
   margin-left: -50px;
 }
 

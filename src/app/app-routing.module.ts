@@ -10,7 +10,6 @@ import { UslugiComponent } from './uslugi/uslugi.component';
 const routes: Routes = [
   { path: '', redirectTo: 'home', pathMatch: 'full' },
   { path: 'home', component: HomeComponent },
-  { path: '**', redirectTo: '/home' },
   { path: 'konsultacje', component: KonsultacjeComponent },
   { path: 'info', component: InfoComponent },
   { path: 'kontakt', component: KontaktComponent },

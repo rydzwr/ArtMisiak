@@ -1,0 +1,29 @@
+.header-content {
+  background-color: #fdfcf9;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.header {
+  width: 40%;
+  height: 100%;
+}
+
+.line {
+  height: 1px;
+  background: black;
+}
+
+.navbar {
+  margin-top: 15px;
+  display: flex;
+  justify-content: space-around;
+}
+
+.nav-button {
+  background: none;
+  border: none;
+}
