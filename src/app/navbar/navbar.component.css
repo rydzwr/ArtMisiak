@@ -7,6 +7,20 @@
   text-align: center;
 }
 
+.logo {
+  display: flex;
+  flex-direction: row;
+  gap: 40px;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.logo-png {
+  height: 100px;
+  width: 70px;
+}
+
 .header {
   width: 40%;
   height: 100%;
