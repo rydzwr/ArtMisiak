@@ -7,7 +7,6 @@ import { HomeComponent } from './home/home.component';
 import { KonsultacjeComponent } from './konsultacje/konsultacje.component';
 import { InfoComponent } from './info/info.component';
 import { KontaktComponent } from './kontakt/kontakt.component';
-import { UslugiComponent } from './uslugi/uslugi.component';
 import { GaleriaComponent } from './galeria/galeria.component';
 import { NavbarComponent } from './navbar/navbar.component';
 import { FootbarComponent } from './footbar/footbar.component';
@@ -19,7 +18,6 @@ import { FootbarComponent } from './footbar/footbar.component';
     KonsultacjeComponent,
     InfoComponent,
     KontaktComponent,
-    UslugiComponent,
     GaleriaComponent,
     NavbarComponent,
     FootbarComponent
