@@ -12,6 +12,7 @@
   justify-content: center;
   align-items: center;
   text-align: center;
+  gap: 30px;
 }
 
 .block-02 {
@@ -19,6 +20,8 @@
   flex-direction: row;
   justify-content: center;
   align-items: center;
+  text-align: center;
+  gap: 30px;
 }
 
 .photo-and-text {
@@ -26,18 +29,25 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  text-align: left;
+  text-align: center;
+}
+
+.text {
+  width: 350px;
+  height: 200px;
 }
 
 .example-photo {
-  height: 100px;
-  width: 150xp;
+  height: 300px;
+  width: 350px;
 }
 
 .block-03 {
   margin-top: 50px;
   display: flex;
-  flex-direction: row;
   justify-content: center;
   align-items: center;
+  text-align: center;
+  gap: 30px;
+  margin-bottom: 100px;
 }

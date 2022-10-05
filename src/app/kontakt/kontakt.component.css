@@ -7,5 +7,7 @@
 }
 
 .photo {
+  height: 30%;
+  width: 30%;
   margin-top: 50px;
 }

@@ -16,7 +16,7 @@
 
 .main-photo {
   height: 80%;
-  width: 40%;
+  width: 60%;
 }
 
 .block-02 {
@@ -34,7 +34,7 @@
 }
 
 .text {
-  font-size: 35px;
+  font-size: 32px;
 }
 
 .block-02-photos {
@@ -43,9 +43,8 @@
 }
 
 .example-photo {
-  height: 300px;
+  height: 550px;
   width: 450px;
-  margin-top: 20px;
 }
 
 .block-03 {
@@ -86,7 +85,7 @@
 
 .block-05-photo {
   height: 250px;
-  width: 350px;
+  width: 270px;
 }
 
 .block-06 {
